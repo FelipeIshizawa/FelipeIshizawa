@@ -14,17 +14,23 @@ Gosto de aprender construindo: conectar serviços, trabalhar com dados e transfo
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-## 🔎 Projeto em destaque
+## 🔎 Projetos em destaque
 
-### [LAN Monitor](https://github.com/FelipeIshizawa/lan-monitor)
+### [ToyTrace](https://github.com/FelipeIshizawa/ToyTrace)
 
-Uma aplicação para acompanhar dispositivos e latência em uma rede local, com um painel que recebe atualizações em tempo real.
+Um monitor didático de chamadas de sistema em **C**, inspirado no strace, desenvolvido em grupo na disciplina de Sistemas Operacionais da PUC-Campinas. Explora processos Linux, **ptrace** e leitura de registradores.
 
-O projeto conecta um agente de coleta em **Python/Scapy**, uma API em **Java/Spring Boot**, um banco **MySQL** e uma interface em **React**, com execução via **Docker Compose**.
+Minha contribuição inclui a implementação da leitura de registradores com **PTRACE_GETREGS**. O fork preserva a autoria e o histórico do grupo.
 
-É um espaço para explorar a integração entre redes, backend, banco de dados e frontend.
+→ [Conheça o ToyTrace](https://github.com/FelipeIshizawa/ToyTrace#readme)
 
-→ [Conheça o projeto e sua arquitetura](https://github.com/FelipeIshizawa/lan-monitor#readme)
+### [AuraFinance](https://github.com/FelipeIshizawa/AuraFinance)
+
+Uma plataforma de gestão financeira pessoal com **React**, **Node.js/Express** e **MySQL**, desenvolvida em equipe na PUC-Campinas. Reúne controle de transações, objetivos financeiros e dashboards.
+
+Atuei na área de **banco de dados**, em colaboração com Pedro, além das atividades de documentação, testes e decisões técnicas realizadas pelo grupo. Este fork mantém os créditos da equipe.
+
+→ [Conheça o AuraFinance](https://github.com/FelipeIshizawa/AuraFinance#readme)
 
 ## Minhas contribuições
 
