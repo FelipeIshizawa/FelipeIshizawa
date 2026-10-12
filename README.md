@@ -26,9 +26,7 @@ O projeto conecta um agente de coleta em **Python/Scapy**, uma API em **Java/Spr
 
 → [Conheça o projeto e sua arquitetura](https://github.com/FelipeIshizawa/lan-monitor#readme)
 
-## 🐍 Minhas contribuições
-
-Um pouco do que venho construindo, contribuição por contribuição.
+## Minhas contribuições
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FelipeIshizawa/FelipeIshizawa/output/github-snake-dark.svg" />
