@@ -1,5 +1,13 @@
 ## Hi there 👋
 
+### 🐍 Minhas contribuições
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FelipeIshizawa/FelipeIshizawa/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/FelipeIshizawa/FelipeIshizawa/output/github-snake.svg" />
+  <img alt="Cobrinha comendo meu gráfico de contribuições no GitHub" src="https://raw.githubusercontent.com/FelipeIshizawa/FelipeIshizawa/output/github-snake.svg" />
+</picture>
+
 <!--
 **FelipeIshizawa/FelipeIshizawa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
